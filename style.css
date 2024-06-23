@@ -45,7 +45,7 @@ img{
 }
 .paper.heart::after {
     content: "";
-    background-image: url(images/polaroidpic.jpg);
+    background-image: url(polaroidpic.jpg);
     width: 100%;
     height: 100%;
     position: absolute;
