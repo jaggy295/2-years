@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+
+
+
+.paper {
+    padding: 100px 100px;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    background-image: url('images/Gold\ Tan\ Beige\ Crumped\ Paper\ Just\ Begin\ Goals\ Productivity\ Goals\ Instagram\ Reels\ Video.jpg') ;
+
+    background-size: 1000px;
+    background-position: center center;
+}
+.paper{
+    border: 5px ;
+    position: absolute;
+    background-image: url('images/Black\ Brown\ Rustic\ Paper\ Simple\ Testimony\ Instagram\ Post\ \(1\).jpg');
+    background-size: 195px;
+    background-position: center center;
+    transform: rotateZ(-5deg);
+    box-shadow: 1px 15px 20px 0px rgba(0, 0, 0, 0.5) ;
+
+   
+
+}
+.paper.drag{
+    padding: 160px;
+}
+.paper.drag p{
+    font-size: 25px;
+}
+img{
+    max-height: 250px;
+    width: 100%;
+    user-select: none;
+}
+.paper.image p{
+    font-size: 15px;
+
+}
+.paper.heart::after {
+    content: "";
+    background-image: url(images/polaroidpic.jpg);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    background-size: 100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+
+
+
+}
+.paper.heart p{
+    margin-right: 20px;
+}
+.paper.heart {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    padding: 0;
+   
+  }
+p {
+    font-family: 'Zeyada';
+    font-size: 20px;
+    color: black;
+    user-select: none;
+    
+     
+  }
+  .paper.image {
+    width: 200px;
+    height: 200px;
+    padding: 0;
+   
+  }
+
+
+
+
