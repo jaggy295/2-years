@@ -45,7 +45,7 @@ img{
 }
 .paper.heart::after {
     content: "";
-    background-image: url(https://github.com/jaggy295/2-years/blob/f149e825cae6b775eadac37822696d28d56b76b1/polaroidpic.jpg);
+    background-image: url('https://github.com/jaggy295/2-years/blob/f149e825cae6b775eadac37822696d28d56b76b1/polaroidpic.jpg');
     width: 100%;
     height: 100%;
     position: absolute;
