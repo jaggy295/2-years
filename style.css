@@ -11,7 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: white;
-    background-image: url('images/Gold\ Tan\ Beige\ Crumped\ Paper\ Just\ Begin\ Goals\ Productivity\ Goals\ Instagram\ Reels\ Video.jpg') ;
+    background-image: url('https://github.com/jaggy295/2-years/blob/c8fa2ee856bdb64b9987e08b270347b87d1702a5/main%20paper.jpg') ;
 
     background-size: 1000px;
     background-position: center center;
@@ -19,7 +19,7 @@ body{
 .paper{
     border: 5px ;
     position: absolute;
-    background-image: url('images/Black\ Brown\ Rustic\ Paper\ Simple\ Testimony\ Instagram\ Post\ \(1\).jpg');
+    background-image: url('');
     background-size: 195px;
     background-position: center center;
     transform: rotateZ(-5deg);
