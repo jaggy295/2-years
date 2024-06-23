@@ -19,7 +19,7 @@ body{
 .paper{
     border: 5px ;
     position: absolute;
-    background-image: url('');
+    background-image: url('https://github.com/jaggy295/2-years/blob/48e35f04fbf710127b5d2e6fa7d4905813e8ce70/notes.jpg');
     background-size: 195px;
     background-position: center center;
     transform: rotateZ(-5deg);
